@@ -1,4 +1,4 @@
-# android-studio-import-estimote-for-beacon
+# android-studio-import-estimote-for-beacon   真的找超超超超久  卡在這個import 快6個小時  最後找到的解法
 
 
 #When  import 
