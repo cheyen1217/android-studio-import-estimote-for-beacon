@@ -1,0 +1,1 @@
+# android-studio-import-estimote-for-beacon
